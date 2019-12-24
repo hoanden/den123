@@ -7,8 +7,8 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	
-	<?php echo "xin chao!" ?>
+
+	<<?php echo "hello wolrd!" ?>
 	
 </body>
 </html>
