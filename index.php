@@ -8,7 +8,9 @@
 </head>
 <body>
 
-	<<?php echo "hello wolrd!" ?>
+	<?php 
+	echo "hello wolrd!" ;
+	?>
 	
 </body>
 </html>
